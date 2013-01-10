@@ -6,6 +6,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="style/main.css" />
 </head>
 <body>
-<h1>Here we Go</h1>
+	<div id="main">
+	</div>
 </body>
 </html>
